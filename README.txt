@@ -16,3 +16,13 @@ February 19, 2024
 Submission 3: Relevance of Latent Space
 Requires: TensorFlow, Numpy, Pandas, scikit-image, scikit-learn, Keras, OpenCV, Matplotlib
 Google Collab: https://colab.research.google.com/drive/1VqW8TKIS69R7ztR_XeUkb4EXPfuE2Uz-?usp=sharing
+
+March 11, 2024
+Submission 4: Improving the Autoencoder
+Requires: TensorFlow, Numpy, Pandas, scikit-image, scikit-learn, Keras, OpenCV, Matplotlib
+Google Collab: https://colab.research.google.com/drive/1G_IBpCVZbh3JiCmAMYa23ZK5-tkHHOst?usp=sharing
+
+April 19, 2024
+Submission 5: Create your own UNet based segmentation model
+Requires: \pyunet\requirements.txt
+Google Collab: https://colab.research.google.com/drive/1IojPdEkf4HDloh8-qIXPRzsSB9zKnwnc?usp=sharing
